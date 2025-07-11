@@ -16,10 +16,6 @@
 - Applies **adaptive masking** robust to masking ratio variations
 - Introduces **Adaptive Masking Ratio (AMR)** tailored to each sample
 
-<p align="center">
-  <img src="assets/sbam_diagram.png" alt="SBAM Overview" width="600">
-</p>
-
 ---
 
 ## SBM Code Snippet (Core Logic)
