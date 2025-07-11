@@ -4,7 +4,7 @@
 >
 > **"Salience-Based Adaptive Masking: Revisiting Token Dynamics for Enhanced Pre-training"**  
 > [ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10063.pdf)  
-> Hyesong Choi\*, Hyejin Park\*, Kwang Moo Yi, Sungmin Cha, Dongbo Min
+> Hyesong Choi\*, Hyejin Park\, Kwang Moo Yi, Sungmin Cha, Dongbo Min
 
 ---
 
