@@ -23,7 +23,7 @@
 The following simplified code illustrates the core logic of **Salience-Based Masking (SBM)**:
 
 ```python
-def saliency_guided_masking(self, x, base_mask_ratio, mask_ratio_var, delta):
+def saliency_guided_masking(self, x):
     N, L, D = x.shape
 
     aff = torch.matmul(x, x.permute(0, 2, 1))  # token-to-token attention
